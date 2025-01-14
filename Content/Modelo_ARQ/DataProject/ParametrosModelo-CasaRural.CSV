@@ -1,0 +1,107 @@
+,Category,Description,Family,Family and Type,Mark,Type,Type Mark,Assembly Code,Assembly Description,Revit.ElementId
+1,Walls,,MURO_TIPOA,MURO_TIPOA: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a261
+2,Walls,,MURO_TIPOB,MURO_TIPOB: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a3b2
+3,Walls,,MURO_TIPOB1,MURO_TIPOB1: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a3dc
+4,Walls,,MURO_TIPOA1,MURO_TIPOA1: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a425
+5,Walls,,MURO_TIPOB2,MURO_TIPOB2: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a447
+6,Walls,,MURO_TIPOA2,MURO_TIPOA2: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a593
+7,Walls,,MURO_TIPOB3,MURO_TIPOB3: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a5b5
+8,Walls,,MURO_TIPOB4,MURO_TIPOB4: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a5d7
+9,Walls,,MURO_TIPOA4,MURO_TIPOA4: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a678
+10,Walls,,MURO_TIPOB6,MURO_TIPOB6: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a69a
+11,Walls,,MURO_TIPOA3,MURO_TIPOA3: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a6ca
+12,Walls,,MURO_TIPOB5,MURO_TIPOB5: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004a6ec
+13,Walls,,MURO_TIPOA5,MURO_TIPOA5: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004aaf8
+14,Walls,,MURO_TIPOB7,MURO_TIPOB7: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ab1a
+15,Walls,,MURO_TIPOA6,MURO_TIPOA6: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ab6b
+16,Walls,,MURO_TIPOB8,MURO_TIPOB8: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ab8d
+17,Walls,,MURO_TIPOA7,MURO_TIPOA7: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004abd6
+18,Walls,,MURO_TIPOB9,MURO_TIPOB9: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004abf8
+19,Walls,,MURO_TIPOB10,MURO_TIPOB10: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ac1a
+20,Walls,,MURO_TIPOA8,MURO_TIPOA8: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ac5d
+21,Walls,,MURO_TIPOB11,MURO_TIPOB11: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ac7f
+22,Walls,,MURO_TIPOB12,MURO_TIPOB12: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004aca1
+23,Walls,,MURO_TIPOA9,MURO_TIPOA9: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004acd4
+24,Walls,,MURO_TIPOB13,MURO_TIPOB13: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004acf6
+25,Walls,,MURO_TIPOB14,MURO_TIPOB14: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ad18
+26,Walls,,MURO_TIPOA10,MURO_TIPOA10: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ad6f
+27,Walls,,MURO_TIPOB15,MURO_TIPOB15: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ad91
+28,Walls,,MURO_TIPOB16,MURO_TIPOB16: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004adb3
+29,Walls,,MURO_TIPOA11,MURO_TIPOA11: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004add7
+30,Walls,,MURO_TIPOB17,MURO_TIPOB17: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004adf9
+31,Walls,,MURO_TIPOB18,MURO_TIPOB18: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ae1b
+32,Walls,,MURO_TIPOA12,MURO_TIPOA12: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ae45
+33,Walls,,MURO_TIPOB19,MURO_TIPOB19: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ae67
+34,Walls,,MURO_TIPOB20,MURO_TIPOB20: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ae89
+35,Walls,,MURO_TIPOA13,MURO_TIPOA13: MURO_TIPOA,TIPO_A,MURO_TIPOA,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004aead
+36,Walls,,MURO_TIPOB21,MURO_TIPOB21: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004aecf
+37,Walls,,MURO_TIPOB22,MURO_TIPOB22: MURO_TIPOB,TIPO_B,MURO_TIPOB,,B2010.40,Emsamble de Muros Exteriores Pre-Fabricados,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004aef1
+38,Structural Foundations,,Foundation Slab,Foundation Slab: LOSA e=10cm,,LOSA e=10cm,,A1020.60,Cimentaciones de Losa,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004af38
+39,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004b156
+40,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004b2d1
+41,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004b2dc
+42,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004b35d
+43,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004b3bc
+44,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004b3c5
+45,Windows,,Ventana corredera de 2 hojas 2,Ventana corredera de 2 hojas 2: 110x100cm,1,110x100cm,35,C1020.10,Ventanas Operables Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004c815
+46,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004ca07
+47,Windows,,Bastidor de ventanillo simple 2,Bastidor de ventanillo simple 2: 110x61cm,2,110x61cm,32,C1020.10,Ventanas Operables Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004d864
+48,Windows,,Ventana corredera de 2 hojas 2,Ventana corredera de 2 hojas 2: 110x100cm,3,110x100cm,35,C1020.10,Ventanas Operables Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004d99b
+49,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004db1e
+50,Doors,,Door-Interior-Single-1_Panel-Wood,Door-Interior-Single-1_Panel-Wood: 70x220mm,1,70x220mm,29,C1030.20,Puertas de Entrada Interiores,7d3dc12e-51fd-4446-a9b2-6d0588e4a18e-0004dc8c
+51,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004df70
+52,Doors,,Door-Interior-Single-1_Panel-Wood,Door-Interior-Single-1_Panel-Wood: 70x220mm,3,70x220mm,29,C1030.20,Puertas de Entrada Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004df71
+53,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004dfd6
+54,Windows,,Ventana corredera de 2 hojas 2,Ventana corredera de 2 hojas 2: 110x100cm,4,110x100cm,35,C1020.10,Ventanas Operables Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004dfd7
+55,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e0b6
+56,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e0fc
+57,Doors,,Door-Interior-Single-1_Panel-Wood,Door-Interior-Single-1_Panel-Wood: 70x220mm,4,70x220mm,29,C1030.20,Puertas de Entrada Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e1da
+58,Doors,,Door-Interior-Single-1_Panel-Wood,Door-Interior-Single-1_Panel-Wood: 70x220mm,5,70x220mm,29,C1030.20,Puertas de Entrada Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e20d
+59,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e291
+60,Windows,,Ventana corredera de 2 hojas 2,Ventana corredera de 2 hojas 2: 110x100cm,5,110x100cm,35,C1020.10,Ventanas Operables Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e292
+61,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e29c
+62,Windows,,Ventana corredera de 2 hojas 2,Ventana corredera de 2 hojas 2: 110x100cm,6,110x100cm,35,C1020.10,Ventanas Operables Interiores,4860e3b5-6ecd-415d-98f2-993cc41512e5-0004e29d
+63,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,d0ea1dc5-9f45-4a6c-83f6-93fedba6ffe5-0004e3c4
+64,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,d0ea1dc5-9f45-4a6c-83f6-93fedba6ffe5-0004eab7
+65,Doors,,Puerta plegable de cuatro hojas,Puerta plegable de cuatro hojas: 1220 x 2200mm,6,1220 x 2200mm,28,C1030.30,Puertas Plegables Interiores,d0ea1dc5-9f45-4a6c-83f6-93fedba6ffe5-0004eb5b
+66,Floors,,Floor,Floor: Tarima,,Tarima,,C2030.45,Suelos de Madera,dd08301f-762b-42b0-9ec5-5ab650d68ce7-0005197b
+67,Railings,,Railing,Railing: Glass Panel - Bottom Fill,,Glass Panel - Bottom Fill,,E2010.90,Otros Mobiliarios Fijos,dd08301f-762b-42b0-9ec5-5ab650d68ce7-000526bf
+68,Plumbing Fixtures,,Toilet-Domestic-3D,Toilet-Domestic-3D: Toilet-Domestic-3D-NT,1,Toilet-Domestic-3D-NT,,D2010.60,Accesorios de Fontanería,7a17b70b-361c-4bbe-a8d8-4df5d5fe80a4-00053ce7
+69,Furniture,,Bed-Box,Bed-Box: 120x180,,120x180,,E2050.30,Muebles,a81f9b67-96d6-4e5f-a601-9d6636aa17dc-00054cb8
+70,Furniture,,Bed-Box,Bed-Box: 90x180,,90x180,,E2050.30,Muebles,a81f9b67-96d6-4e5f-a601-9d6636aa17dc-00054ee9
+71,Furniture,,Bed-Box,Bed-Box: 90x180,,90x180,,E2050.30,Muebles,a81f9b67-96d6-4e5f-a601-9d6636aa17dc-00054efb
+72,Furniture,,Meson,Meson: Meson,,Meson,,E2050.30,Muebles,2fc7e0f7-552d-4c51-abaf-f13c30f074b3-000556e0
+73,Furniture,,Sofa-Pensi,Sofa-Pensi: 65 ,,65 ,,E2050.30,Muebles,2fc7e0f7-552d-4c51-abaf-f13c30f074b3-00055bec
+74,Generic Models,,CP2,CP2: CP2,P2,CP2,,C1040.50,Puertas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-000575b3
+75,Generic Models,,EST_CUB,EST_CUB: EST_CUB,,EST_CUB,CUBIERTA,B1020.10,Marco Estructural del Techo,24da2748-7198-4d74-a0fc-c0e2167153ad-00057a7e
+76,Generic Models,,P2,P2: P2,PC,P2,,C1040.50,Puertas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00057f32
+77,Generic Models,,P2,P2: P2,PC,P2,,C1040.50,Puertas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00058210
+78,Generic Models,,CP2,CP2: CP2,P2,CP2,,C1040.50,Puertas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-0005836f
+79,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00058657
+80,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-0005879b
+81,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-0005899c
+82,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00058a35
+83,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00058c53
+84,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00058daa
+85,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00058e80
+86,Walls,,Basic Wall,Basic Wall: Generic - 100mm,,Generic - 100mm,,C1010.10,Divisiones Fijas Interiores,24da2748-7198-4d74-a0fc-c0e2167153ad-00058f92
+87,Furniture,,Table-Night Stand,Table-Night Stand: 18  x 18  x 24 ,,18  x 18  x 24 ,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-0005942d
+88,Furniture,,Table-Night Stand,Table-Night Stand: 18  x 18  x 24 ,,18  x 18  x 24 ,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-00059580
+89,Furniture,,Table-Night Stand,Table-Night Stand: 18  x 18  x 24 ,,18  x 18  x 24 ,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-00059594
+90,Furniture,,M_Table-Dining,M_Table-Dining: 900x900,,900x900,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-0005a964
+91,Furniture,,Taburete (1),Taburete (1): 420 x 420 mm,,420 x 420 mm,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-0005b4fe
+92,Furniture,,Taburete (1),Taburete (1): 420 x 420 mm,,420 x 420 mm,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-0005b557
+93,Furniture,,Taburete (1),Taburete (1): 420 x 420 mm,,420 x 420 mm,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-0005b5c2
+94,Furniture,,Taburete (1),Taburete (1): 420 x 420 mm,,420 x 420 mm,,E2050.30,Muebles,feed3c76-5587-48a0-b970-bf621d6e3e3e-0005b641
+95,Plumbing Fixtures,,Plato de ducha-3D,Plato de ducha-3D: 700 x 900mm,2,700 x 900mm,,D2010.60,Accesorios de Fontanería,06bd4695-c692-4e49-b58b-68194067f901-0005c334
+96,Plumbing Fixtures,,Ducha,Ducha: Ducha,3,Ducha,,D2010.60,Accesorios de Fontanería,06bd4695-c692-4e49-b58b-68194067f901-0005c337
+97,Plumbing Fixtures,,Fregadero de lavabo - Moderno,Fregadero de lavabo - Moderno: 440 x 350 mm,4,440 x 350 mm,,D2010.60,Accesorios de Fontanería,06bd4695-c692-4e49-b58b-68194067f901-0005cdcb
+98,Plumbing Fixtures,,Fregadero de cocina - Uno,Fregadero de cocina - Uno: 760 x 535 mm,5,760 x 535 mm,,E2050.30,Muebles,06bd4695-c692-4e49-b58b-68194067f901-0005d149
+99,Specialty Equipment,,Refrigerador,Refrigerador: 850 x 760mm,,850 x 760mm,,E1060.10,Electrodomésticos Residenciales,06bd4695-c692-4e49-b58b-68194067f901-0005d5bc
+100,Specialty Equipment,,Cocina encimera - 2 fuegos,Cocina encimera - 2 fuegos: 305 x 457mm,,305 x 457mm,,E2050.30,Muebles,06bd4695-c692-4e49-b58b-68194067f901-0005d86f
+101,Furniture,,Módulo de estantería,Módulo de estantería: 1000 x 400 mm,,1000 x 400 mm,,E2050.30,Muebles,8b3706fd-78af-469a-8beb-208f225cd6f7-0005dd20
+102,Specialty Equipment,,Lavadora,Lavadora: 680 x 635 x 890mm,,680 x 635 x 890mm,,E1060.10,Electrodomésticos Residenciales,8b3706fd-78af-469a-8beb-208f225cd6f7-0005e1dd
+103,Roofs,,Basic Roof,Basic Roof: Generic -70mm,,Generic -70mm,,B1020.20,Techos. Losas y Revestimientos del Techo,07697385-66aa-41c6-8b11-86ab95d15683-0005f445
+104,Roofs,,Basic Roof,Basic Roof: Generic -70mm,,Generic -70mm,,B1020.20,Techos. Losas y Revestimientos del Techo,07697385-66aa-41c6-8b11-86ab95d15683-0005f823
+105,Roofs,,Basic Roof,Basic Roof: Generic -70mm,,Generic -70mm,,B1020.20,Techos. Losas y Revestimientos del Techo,07697385-66aa-41c6-8b11-86ab95d15683-000602f5
+106,Roofs: Gutters,,Gutter,Gutter: Gutter,,Gutter,,D2030.20,Tuberías de Drenaje de Aguas Pluviales,07697385-66aa-41c6-8b11-86ab95d15683-000604a0
