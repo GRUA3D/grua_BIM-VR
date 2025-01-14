@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\MODELOUE5\\MODELO_CASA_RURAL_27Feb\\Intermediate\\Source\\MODELO_CASA_RURAL_27Feb.Build.cs",
+		"D:\\MODELOUE5\\MODELO_CASA_RURAL_27Feb\\Intermediate\\Source\\MODELO_CASA_RURAL_27Feb.Target.cs",
+		"D:\\MODELOUE5\\MODELO_CASA_RURAL_27Feb\\Intermediate\\Source\\MODELO_CASA_RURAL_27FebClient.Target.cs",
+		"D:\\MODELOUE5\\MODELO_CASA_RURAL_27Feb\\Intermediate\\Source\\MODELO_CASA_RURAL_27FebEditor.Target.cs",
+		"D:\\MODELOUE5\\MODELO_CASA_RURAL_27Feb\\Intermediate\\Source\\MODELO_CASA_RURAL_27FebServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

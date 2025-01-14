@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\grua-pc\\desktop\\modelo_casa_rural_27feb\\intermediate\\build\\win64\\x64\\unrealgame\\development\\modelo_casa_rural_27feb\\module.modelo_casa_rural_27feb.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\grua-pc\\desktop\\modelo_casa_rural_27feb\\intermediate\\build\\win64\\x64\\modelo_casa_rural_27feb\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\grua-pc\\desktop\\modelo_casa_rural_27feb\\intermediate\\build\\win64\\x64\\unrealgame\\development\\modelo_casa_rural_27feb\\definitions.modelo_casa_rural_27feb.h",
+            "c:\\users\\grua-pc\\desktop\\modelo_casa_rural_27feb\\intermediate\\source\\modelo_casa_rural_27feb.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\MODELOUE5\\GRUA_IMP3D\\Intermediate\\Source\\GRUA_IMP3D.Build.cs",
+		"D:\\MODELOUE5\\GRUA_IMP3D\\Intermediate\\Source\\GRUA_IMP3D.Target.cs",
+		"D:\\MODELOUE5\\GRUA_IMP3D\\Intermediate\\Source\\GRUA_IMP3DClient.Target.cs",
+		"D:\\MODELOUE5\\GRUA_IMP3D\\Intermediate\\Source\\GRUA_IMP3DEditor.Target.cs",
+		"D:\\MODELOUE5\\GRUA_IMP3D\\Intermediate\\Source\\GRUA_IMP3DServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

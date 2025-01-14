@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GRUA_IMP3D.cpp.obj": [
+			"GRUA_IMP3D.cpp.obj"
+		]
+	}
+}

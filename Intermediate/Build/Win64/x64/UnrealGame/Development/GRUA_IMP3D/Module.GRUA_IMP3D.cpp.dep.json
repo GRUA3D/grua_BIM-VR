@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\modeloue5\\grua_imp3d\\intermediate\\build\\win64\\x64\\unrealgame\\development\\grua_imp3d\\module.grua_imp3d.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\modeloue5\\grua_imp3d\\intermediate\\build\\win64\\x64\\grua_imp3d\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "d:\\modeloue5\\grua_imp3d\\intermediate\\build\\win64\\x64\\unrealgame\\development\\grua_imp3d\\definitions.grua_imp3d.h",
+            "d:\\modeloue5\\grua_imp3d\\intermediate\\source\\grua_imp3d.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
